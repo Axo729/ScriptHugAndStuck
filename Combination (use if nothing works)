@@ -1,4 +1,4 @@
-local stuckName = "Iamacakelove" --replace
+local stuckName = "piketemoneyteam" --replace
 local targetName = "oeo729" --replace
 
 local Players = game:GetService("Players")
